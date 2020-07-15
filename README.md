@@ -25,7 +25,7 @@ These tool talk back to you and does work for you on voice command.
             just say "open youtube".
         * You can also make it write for you in the notepad:
             you can say notepad or open notepad...and start commanding the program.
-        * At last you can close the program by commanding "Kill program"
+        * At last you can close the program by commanding "terminate program"
         
 # Requirements:
     * For facebook login you need to specify your user_name and password in line 68 and 69 repectively.
