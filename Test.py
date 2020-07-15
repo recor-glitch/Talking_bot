@@ -104,7 +104,7 @@ if __name__ == "__main__":
         elif 'notepad' in fquery:
             Notepad()    
 
-        elif 'kill program' in fquery:
+        elif 'terminate program' in fquery:
             exit()    
             
 
